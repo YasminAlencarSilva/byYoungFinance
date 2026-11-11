@@ -1,0 +1,17 @@
+.header {
+  border-bottom-left-radius: 3rem;
+  border-bottom-right-radius: 3rem;
+  background: #071954;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.btnLogin {
+  color: #071954;
+}
+
+.btnCadastro {
+  background-color: #92b1f4;
+  color: #fff;
+}
+
