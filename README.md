@@ -27,16 +27,6 @@ Nosso objetivo é democratizar o acesso ao controle financeiro, por meio de solu
 5. Em backend, após a instalação, digite "node app.js";
 6. Aproveite o site.
 
-## Autores do Projeto
-
-*Projeto desenvolvido com dedicação por:*
-
-- **Davi** : Desenvolvimento Back-End  
-- **Giovanna** : Desenvolvimento Front-End e design  
-- **Laura** : Desenvolvimento Front-End e design  
-- **Vitória** : Desenvolvimento Front-End e design  
-- **Yasmin** : Desenvolvimento Front-End e design  
-
 
 ## Sobre a Empresa
 
